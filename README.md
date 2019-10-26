@@ -1,2 +1,2 @@
-# JavaStuff
-Here is where I access my java programs and files from out of home.
+# My Programs
+Here is where I access myprograms and files from out of home.

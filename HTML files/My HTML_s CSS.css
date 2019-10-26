@@ -1,0 +1,144 @@
+html{
+	margin: 20px 20px;
+	padding: 20px 20px;
+	font-family: Times New Roman;
+	background-color: #000066;
+	height: 100%;
+}	
+
+body{
+	height: 100%;
+	
+}
+
+li{
+	display: block;
+}
+
+h1{
+	font-weight: bold;
+}
+
+p{
+	color: white;
+	font-size: 20px;
+	
+}
+
+.rightList{
+    width: 100%
+}
+
+.bordered table,th,td{
+	border: 1px solid black;
+}
+
+th, td {
+	padding: 15px;
+}
+
+td:hover,th:hover {
+	background-color: #AAAAAA;
+}
+
+a{
+	font-family: Times New Roman;
+}
+
+/* unvisited link */
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: orange;
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+/* selected link */
+a:active {
+  color: yellow;
+}
+
+.select{
+	background-color: white;
+}
+
+.jsbutton{
+	text-align: center;
+}
+
+.centered{
+	text-align: center;
+}
+
+.picCenter{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.Introduction{
+	color: white;
+	font-size: 150%;
+}
+
+.buttonStandard{
+	padding: 15px 32px;
+}
+
+table.contraster, p.contraster, h1.contraster{
+	background-color: white;
+	color: black;
+}
+
+.clear{
+	background-color: white;	
+}
+
+.spacerS{
+	height: 20px;
+	width: 100%;
+	clear: both;
+}
+
+.spacerM{
+	height: 40px;
+	width: 100%;
+	clear: both;
+}
+
+.spacerC(upDown){
+	height: upDown;
+	width: 100%
+	clear: both;
+}
+
+.padder{
+	padding: 20px 40px;
+}
+
+.20padding{
+	padding: 20px 20px;
+}
+
+.StandardPic{
+	height: 250px;
+	width: 250px;
+}
+
+#footer{
+	position: relative;
+	height: 100px;
+	margin-top: -100px;
+	clear: both;
+}
+
+#container {
+  min-height: 100%;
+}
